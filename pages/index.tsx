@@ -28,9 +28,9 @@ const Home = () => {
                 . When I&apos;m not working at my day job at{" "}
                 <a
                   className={"text-link hover:underline"}
-                  href={"https://www.ixl.com/"}
+                  href={"https://www.outschool.com/"}
                 >
-                  IXL Learning
+                  Outschool
                 </a>
                 , you can often find me reading, playing tennis, or riding my bike
                 around the San Francisco bay area. I&apos;m always looking for
